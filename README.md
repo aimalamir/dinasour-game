@@ -34,8 +34,9 @@ A simple and fun dinosaur game built using **React** and **Vite**. Inspired by t
 ```bash
 git clone https://github.com/aimalamir/dinasour-game.git
 cd dinasour-game
-
+```
 ### Run the project
 npm install
 npm run dev
 http://localhost:5173
+
