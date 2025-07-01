@@ -1,6 +1,7 @@
 # 🦖 Dinosaur Game
 
 A simple and fun dinosaur game built using **React** and **Vite**. Inspired by the classic Chrome offline game, this project is meant for practicing React hooks, component design, and keyboard event handling.
+The project is deployed on vercel so have a look https://dinasour-game.vercel.app/
 
 ---
 
